@@ -32,17 +32,19 @@ public class Pessoa implements User{
     
     @Override
     public String getUsername() {
-        
+     
+        return this.username;
     }
 
     @Override
     public String getName() {
         
+        return this.nome;
     }
 
     @Override
     public String getPassword() {
      
-        return 
+        return password;
     }
 }

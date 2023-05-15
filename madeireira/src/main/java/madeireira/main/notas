@@ -1,0 +1,59 @@
+Criacao da base de dados no postgresql:
+
+- Criar a base
+
+
+- Acessar
+
+
+- 
+
+
+-
+-
+-
+
+
+Usuario:RianWlp
+Senha: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
+
+Git comandos:
+
+git add .
+git commit -m "<nomeAlteracao>"
+git pull origin master
+git push -u origin master
+
+
+
+-
+-
+-
+-
+-
+-
+
+
+
+
+
+
+
+Notas
+
+- Copiar o arquivo do MysqlWorkBench para dentro do projeto
+- Criar um .sql para a criacao da base de dados
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
