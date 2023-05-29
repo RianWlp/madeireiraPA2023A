@@ -8,6 +8,6 @@ package madeireira.persistencia;
  *
  * @author rianwlp
  */
-public class PessoaDAO {
+public class PeopleDAO {
     
 }
