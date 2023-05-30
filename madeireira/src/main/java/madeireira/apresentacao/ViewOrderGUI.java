@@ -234,7 +234,7 @@ public class ViewOrderGUI extends javax.swing.JFrame {
 
     }
     
-    private void jButtonClearActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonClearActionPerformed
+    private void jButtonClearActionPerformed(java.awt.event.ActionEvent evt) {                                             
     
         
     }

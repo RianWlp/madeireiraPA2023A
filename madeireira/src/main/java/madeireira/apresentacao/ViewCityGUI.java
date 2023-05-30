@@ -1,21 +1,22 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
 package madeireira.apresentacao;
 
+import br.univates.raiz.persistence.IDao;
+import br.univates.raiz.persistence.InvalidKeyException;
+import br.univates.raiz.persistence.KeyViolationException;
+import madeireira.persistencia.DAOFactory;
+import madeireira.negocio.Cidade;
 /**
  *
  * @author rianwlp
  */
-public class ViewModelGUI extends javax.swing.JFrame {
+public class ViewCityGUI extends javax.swing.JFrame {
 
     /**
      * Creates new form ViewOrderGUI
      */
-    public ViewModelGUI() {
+    public ViewCityGUI() {
         
-        this.setTitle("Cadastro de Mercadorias");
+        this.setTitle("Cadastro de Cidades");
         this.getTitle();
         
         initComponents();
